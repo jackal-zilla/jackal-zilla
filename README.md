@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jackal-zilla
-- 👀 I’m interested in Game Development, animation and graphic and UI design
-- 🌱 I’m currently learning WPF/XAML and blender
+- 👋 Hi, I’m kimfelix
+- 👀 I’m interested in Game Development and animation
+- 🌱 I’m currently learning WPF/XAML, javascript and blender
 - 📫 How to reach me :kabethifelix77@gmail.com
 
 <!---
